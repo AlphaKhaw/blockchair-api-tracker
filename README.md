@@ -113,7 +113,7 @@ _For more examples, please refer to the [Documentation](https://github.com/Alpha
 ## Roadmap
 
 - [ ] Expanding beyond Bitcoin and Ethereum classes to cater for alternative endpoints 
-- [ ] Experimenting with `Raw data endpoints` and `Infinitable endpoints` to potentially optimise solution
+- [ ] Experimenting with `Raw data endpoints` and `Infinitable endpoints` provided by Blockchair API to potentially optimise current solution
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
